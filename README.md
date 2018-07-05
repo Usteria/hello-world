@@ -1,2 +1,2 @@
 # hello-world
-Petit test d'utilisatin de GitHub
+Petit test d'utilisation de #GitHub
